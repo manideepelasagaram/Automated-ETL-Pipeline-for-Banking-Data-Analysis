@@ -34,14 +34,14 @@ Monitor the progress and review the output CSV file and SQLite database for the 
 Analyze the data using SQL queries or other tools as needed.
 
 ## Dependencies:
-requests
-BeautifulSoup
-pandas
-numpy
-sqlite3
+requests,
+BeautifulSoup,
+pandas,
+numpy,
+sqlite3.
 
 
-##Author:
+## Author:
 Manideep Elasagaram
 
 
